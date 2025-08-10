@@ -1,3 +1,7 @@
+[![Build Status](https://img.shields.io/github/actions/workflow/status/jonakoudijs/kavorites/deploy.yml)](https://github.com/jonakoudijs/kavorites/actions)
+[![Image Size](https://img.shields.io/docker/image-size/jonakoudijs/kavorites/latest.svg)](https://hub.docker.com/r/jonakoudijs/kavorites)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 # Kavorites - Kubernetes Ingress Viewer
 
 A simple and elegant web application that retrieves Ingress objects from a Kubernetes cluster and displays their URLs in a clean, modern interface.
